@@ -1,0 +1,6 @@
+{
+  "name": "Mera Khata - Offline Finance & Udhar Tracker",
+  "description": "Simple and clean offline mobile finance app to track bank balances, udhari (lena/dena khata), and daily expenses without internet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
